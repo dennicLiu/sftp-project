@@ -1,0 +1,35 @@
+{
+  "development": {
+    "server-1": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": ""
+    },
+    "server-2": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": ""
+    },
+    "server-3": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": ""
+    },
+    "server-4": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": ""
+    }
+  },
+
+  "test": {
+    "host": "",
+    "port": "",
+    "username": "",
+    "password": ""
+  }
+}
